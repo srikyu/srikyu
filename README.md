@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @srikyu
 - 👀 I’m interested in  Software Engineering.
 - 💞️ I work for an IT company doing cloud integration. However, I want to be a software engineer and I am learning about software.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python. I'm at a skill level where I don't know anything about software engineering, so I'm looking for advice!
 - 📫 How to reach me ...https://twitter.com/ocha_rikyu
 
 I'm going to do this challenge inspired by this article!<br>
