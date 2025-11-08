@@ -7,7 +7,7 @@
 
 I'm going to do this challenge inspired by this article!<br>
 https://johnresig.com/blog/write-code-every-day/#postcomment<br>
-start@2021.11.21
+
 
 # Own Rule
 - At least one commitment per day
